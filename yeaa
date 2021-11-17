@@ -23,6 +23,6 @@ end
 onSelected(game.Players.LocalPlayer:GetMouse())
 game.StarterGui:SetCore("SendNotification",{
 			Title = "Speed Enabled";
-			Text = "Da Assist 😈";
+			Text = "turtleware.cc-priv";
 			Duration = 0.20;
 		})
